@@ -47,7 +47,7 @@ p {
 }
 
 div {
-  margin: 1em 0;
+  margin: 1em .75em;
 }
 
 a {
@@ -56,7 +56,6 @@ a {
   border-radius: 4px;
   padding: .5em .75em;
   text-decoration: none;
-  margin: 2em .75em 4em;
 }
 
 a:hover {
