@@ -42,5 +42,12 @@ p {
 }
 
 a {
-  background:
+  background-color: #555;
+  color: #fff;
+  border-radius: 4px;
+  padding: .5em .75em;
+}
+
+a:hover {
+  background-color: #000;
 }
