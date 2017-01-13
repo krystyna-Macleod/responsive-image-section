@@ -33,17 +33,17 @@ section {
 }
 
 h1 {
-  margin-top: 0;
+  margin: .74em;
 }
 
 h2 {
   font-size: 1rem;
-  margin: 0;
+  margin: .74em;
 }
 
 p {
   text-align: left;
-  margin-top: 0;
+  margin: .74em;
 }
 
 a {
@@ -52,6 +52,7 @@ a {
   border-radius: 4px;
   padding: .5em .75em;
   text-decoration: none;
+  margin: 1em .74em;
 }
 
 a:hover {
