@@ -97,4 +97,18 @@ a:hover {
     font-size: 110%;
     line-height: 1.4;
   }
+
+  main {
+    max-width: 100%;
+  }
+
+  .body {
+    display: inline-block;
+    width: 50%;
+  }
+
+  .img-flex {
+    display: inline-block;
+    width: 50%;
+  }
 }
