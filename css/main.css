@@ -33,17 +33,17 @@ section {
 }
 
 h1 {
-  margin: .71em;
+  margin: .69em .66em;
 }
 
 h2 {
   font-size: 1rem;
-  margin: .75em .68em 0;
+  margin: .76em .85em 0;
 }
 
 p {
   text-align: left;
-  margin: 0 .75em 2em;
+  margin: 0 .85em 2em;
 }
 
 div {
