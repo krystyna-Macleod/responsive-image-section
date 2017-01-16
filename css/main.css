@@ -115,13 +115,15 @@ a:hover {
   .body {
     display: inline-block;
     width: 45%;
+    vertical-align: center;
   }
 
   .img-flex {
     display: inline-block;
-    width: 51%;
+    width: 50%;
     max-width: 100%;
-    margin-bottom: 2em;
+    vertical-align: center;
+    margin: 0;
   }
 
   h1 {
