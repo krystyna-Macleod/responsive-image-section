@@ -44,6 +44,7 @@ h2 {
 p {
   text-align: left;
   margin: 0 .85em 2em;
+  font-style: normal;
 }
 
 div {
@@ -55,6 +56,7 @@ a {
   color: #fff;
   border-radius: 4px;
   padding: .5em .75em;
+  margin: 0;
   text-decoration: none;
   font-size: 1rem;
 }
@@ -72,15 +74,19 @@ a:hover {
   }
 
   h1 {
-    margin: .69em .66em 1.2em;
+    margin: .69em .66em 1.5em;
   }
 
   h2 {
-    margin: 1em .85em 0;
+    margin: 0 1em;
+  }
+
+  p {
+    margin: 0 1em;
   }
 
   div {
-    margin: 1.3em .79em;
+    margin: 2em .79em;
   }
 
 }
