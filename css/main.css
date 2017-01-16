@@ -108,13 +108,32 @@ a:hover {
     max-width: 100%;
   }
 
+  section {
+    margin: 0;
+  }
+
   .body {
     display: inline-block;
-    width: 50%;
+    width: 45%;
   }
 
   .img-flex {
     display: inline-block;
-    width: 50%;
+    width: 51%;
+    max-width: 100%;
+    margin-bottom: 2em;
   }
+
+  h1 {
+    margin: 1em .66em;
+  }
+
+  h2 {
+    margin: 0 1em;
+  }
+
+  p {
+    margin: 0 1em;
+  }
+
 }
