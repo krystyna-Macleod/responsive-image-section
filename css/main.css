@@ -74,7 +74,7 @@ a:hover {
   }
 
   h1 {
-    margin: .69em .66em 1.5em;
+    margin: .69em .66em 1.1em;
   }
 
   h2 {
@@ -86,7 +86,7 @@ a:hover {
   }
 
   div {
-    margin: 2em .79em;
+    margin: 2em .79em 1em;
   }
 
 }
