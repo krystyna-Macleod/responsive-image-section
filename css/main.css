@@ -104,10 +104,6 @@ a:hover {
     line-height: 1.4;
   }
 
-  main {
-    max-width: 100%;
-  }
-
   section {
     margin: 0;
   }
@@ -124,11 +120,11 @@ a:hover {
 
   .img-1 {
     display: inline-block;
-    width: 50%;
+    width: 47%;
   }
 
   h1 {
-    margin: 1em .66em;
+    margin: 1.1em .66em;
     text-align: left;
   }
 
@@ -155,12 +151,6 @@ a:hover {
     line-height: 1.5;
   }
 
-   {
-    vertical-align: middle;
-  }
-
-
-
 }
 
 @media only screen and (min-width: 90em) {
@@ -170,4 +160,23 @@ a:hover {
     font-size: 130%;
     line-height: 1.5;
   }
+
+  .body {
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+    max-height: 100%;
+    vertical-align: middle;
+  }
+
+  .img-flex {
+    display: block;
+  }
+
+  .img-1 {
+    display: inline-block;
+    width: 50%;
+    vertical-align: middle;
+  }
+
 }
