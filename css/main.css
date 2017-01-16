@@ -33,12 +33,12 @@ section {
 }
 
 h1 {
-  margin: .72em;
+  margin: .71em;
 }
 
 h2 {
   font-size: 1rem;
-  margin: .75em .69em 0;
+  margin: .75em .68em 0;
 }
 
 p {
@@ -47,7 +47,7 @@ p {
 }
 
 div {
-  margin: 1em .75em;
+  margin: 1.5em .79em;
 }
 
 a {
@@ -56,6 +56,7 @@ a {
   border-radius: 4px;
   padding: .5em .75em;
   text-decoration: none;
+  font-size: 1rem;
 }
 
 a:hover {
