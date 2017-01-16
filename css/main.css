@@ -118,12 +118,11 @@ a:hover {
     vertical-align: center;
   }
 
-  .img-flex {
+  .img-1 {
     display: inline-block;
     width: 50%;
     max-width: 100%;
     vertical-align: center;
-    margin: 0;
   }
 
   h1 {
