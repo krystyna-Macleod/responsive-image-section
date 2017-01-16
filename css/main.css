@@ -58,7 +58,6 @@ a {
   padding: .5em .75em;
   margin: 0;
   text-decoration: none;
-  font-size: 1rem;
 }
 
 a:hover {
@@ -74,7 +73,7 @@ a:hover {
   }
 
   h1 {
-    margin: .69em .66em 1.1em;
+    margin: .69em .66em 1em;
   }
 
   h2 {
@@ -86,7 +85,16 @@ a:hover {
   }
 
   div {
-    margin: 2em .79em 1em;
+    margin: 1.4em .79em 1.5em;
   }
 
+}
+
+@media only screen and (min-width: 25em) {
+
+  html {
+    font: normal 100%/1.4 sans-serif;
+    font-size: 110%;
+    line-height: 1.4;
+  }
 }
